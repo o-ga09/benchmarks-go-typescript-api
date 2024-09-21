@@ -1,6 +1,13 @@
-# Benchmark Go vs TypeScript
+# Benchmark API
 
-this app use framework "fiber" and "express"
+Go vs TypeScript vs Python
+
+Compare
+
+- able to processing requests time
+- stating latency on Cloud Run
+
+this app use framework "fiber" and "express" and "flask"
 
 ## Overview
 
